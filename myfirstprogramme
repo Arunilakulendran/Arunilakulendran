@@ -1,0 +1,17 @@
+print('hello,world!')
+person=input('what is your name?')
+print('hello',person)
+
+age=14
+print(age)
+14
+
+weight=36
+print(weight)
+36
+
+Height =156
+print(Height)
+156
+
+#coding with Arunila
